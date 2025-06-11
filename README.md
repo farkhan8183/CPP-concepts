@@ -1,8 +1,7 @@
 C++ Concepts & Practice Problems:
 
 Welcome to my personal C++ practice repository.
-This repo includes C++ basics, patterns, loops, functions, pointers, and even some beginner LeetCode problems — all organized clearly by topic.
-It is Created as part of my BSCS learning journey — ideal for students revising core C++ programming concepts!
+This is my personal C++ practice space, where I’ve written short code snippets, logic problems, and topic-wise examples to understand the core concepts of C++ step by step during my BSCS.
 
  Folder Structure
 Each folder focuses on a specific topic or problem set:
